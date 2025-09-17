@@ -27,7 +27,7 @@ app.get("/", (req, res) => {
   res.status(200).json({
     info: "Drag and drop form builder api",
     version: "v1",
-    dev:"Gyanranjan Patra & Dharmendra Mahanta"
+    dev:"Devansh Bansal, Animesh Pattnaik, Chirag Agrawal and Debasish Dey"
   });
 });
 
